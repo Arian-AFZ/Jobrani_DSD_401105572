@@ -1,4 +1,4 @@
-# Jobrani_DSD_401105572 (Q8)
+# Parking Lot Simulation Using Verilog
 
 A Verilog module for managing a university parking lot.
 
